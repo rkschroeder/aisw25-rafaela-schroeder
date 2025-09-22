@@ -24,7 +24,7 @@ int main() {
 
     /*
     Iterate and print key-value pairs of unordered_map. 
-    Sintax: 
+    Syntax: 
     Const: Prevents modification of the element inside the loop.
     std::pair<std::string, std::string>& : Type of the loop variable. 
     In an unordered_map<std::string, std::string>, each element is a key-value pair
